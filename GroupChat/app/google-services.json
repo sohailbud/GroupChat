@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_id": "groupchat-1196",
+    "project_number": "603620925341",
+    "name": "GroupChat"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603620925341:android:614d9d7e470b1626",
+        "client_id": "android:com.example.android.groupchat",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.android.groupchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
